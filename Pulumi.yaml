@@ -1,0 +1,3 @@
+name: pulumi-automation-error-example
+runtime: nodejs
+description: A minimal AWS TypeScript Pulumi program
